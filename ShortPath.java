@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ShortPath {
     public static double ShortestPath(String path){
         int x = 0, y=0;
